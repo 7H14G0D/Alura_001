@@ -1,4 +1,4 @@
-# Alura 001 Lógica de Programação 
+# Alura 001 - Lógica de Programação 
 
 Game: Ping Pong - Java Script
 
